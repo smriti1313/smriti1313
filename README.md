@@ -27,16 +27,10 @@ _Computer Science & Engineering Sophomore_ at <b>[College name]</b> I'm a <b> Fu
 
 ### Trending Repositories 📖
 
-<a href="https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Malware-with-Backdoor-and-Keylogger" />
+<a href="https://github.com/smriti1313/Linkedin-clone">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=smriti1313&repo=Linkedin-clone" />
 </a>
-<a href="https://github.com/avinashkranjan/Python-Scripts">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Amazing-Python-Scripts" />
-</a>
-<a href="https://github.com/avinashkranjan/Friday">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Friday" />
-</a>
-<a href="https://github.com/avinashkranjan/lifeMEDeasy">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=lifeMEDeasy" />
+<a href="https://github.com/smriti1313/Attendace_management_system">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=smriti1313&repo=Attendace_management_system" />
 </a>
 
